@@ -3,11 +3,11 @@ Vimでできることとやったことの備忘録
 
 ** .vimrc の設定
 vimを使う中での設定を書き込むファイル
-'''
+```
 $ vim ~/.vimrc
-'''
+```
 <br>
-'''
+```
 set number
 set nobackup
 set noswapfile
@@ -21,4 +21,4 @@ set expandtab
 set tabstop=2
 set shiftwidth=2
 inoremap <silent> jj <ESC>
-'''
+```
